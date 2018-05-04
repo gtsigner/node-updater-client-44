@@ -1,0 +1,20 @@
+{
+  "mysql": {
+    "host": "172.96.196.35",
+    "port": 3306,
+    "user": "root",
+    "password": "root",
+    "database": "bEupxuADRXbKdYW",
+    "table": "nodes"
+  },
+  "domains": [
+    {
+      "domain": "a.baidu.com",
+      "nodeid": 11
+    },
+    {
+      "domain": "b.baidu.com",
+      "nodeid": 12
+    }
+  ]
+}
